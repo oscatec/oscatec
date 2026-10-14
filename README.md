@@ -2,11 +2,11 @@
 
 AI engineer building LLM agent systems that run in production. I design the orchestration, wire up the tools, and ship it to people who never want to see a terminal.
 
-Currently an **AI Agent Integration Consultant** at UniPartners, delivering custom agent workflows for clients end to end, and finishing an **MSc in Artificial Intelligence** at the University of Groningen. Before that, dual bachelor's degrees in Computer Engineering and Statistics, so I care as much about whether a model is right as whether it runs.
+Currently an **AI Agent Integration Consultant** at UniPartners, delivering custom agent workflows for clients end to end, and finishing an **MSc in Artificial Intelligence** at the University of Groningen. Before that, dual bachelor's degrees in Computer Engineering and Statistics, so I account for whether a model is right as much as whether it runs.
 
 #### What I work on
 
-Multi-agent architectures with an orchestrator routing to specialized agents. Choosing between hosted APIs (OpenAI, Anthropic, Gemini) and local models (Ollama, Mistral, Qwen) on cost, latency and privacy. Guardrails against hallucination. Multilingual automation pipelines (EN, NL, DE) packaged with Docker. On the research side, LLM reasoning analysis, narrative structure with LLM agents, and human-robot interaction.
+Multi-agent architectures with an orchestrator routing to specialized agents. Choosing between hosted APIs (OpenAI, Anthropic, Gemini) and local models (Ollama, Mistral, Qwen) on cost, latency, and privacy. Guardrails against hallucination. Multilingual automation pipelines (EN, NL, DE) packaged with Docker. On the research side, LLM reasoning analysis, narrative structure with LLM agents, and human-robot interaction.
 
 #### Featured work
 
