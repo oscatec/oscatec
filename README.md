@@ -14,7 +14,7 @@ Multi-agent architectures with an orchestrator routing to specialized agents. Ch
 |---|---|
 | **Hermes** | Fully local 7-agent personal assistant. A lightweight orchestrator routes to specialized agents, reachable through Discord and Telegram, each grounded in its own knowledge base. |
 | **Alpha Mini for aphasia therapy** (https://github.com/oscatec/alpha-mini-aphasia-companion)| Social robot app for speech therapy combining face recognition, LLM dialogue and a modular WAMP backend. |
-| **Reasoning commitments** | Extracting what an LLM actually commits to inside its chain of thought, run at scale on an HPC cluster. |
+| **Reasoning commitments** (https://github.com/oscatec/llm-reasoning-commitments)| Extracting what an LLM actually commits to inside its chain of thought, run at scale on an HPC cluster. |
 
 #### Stack
 
